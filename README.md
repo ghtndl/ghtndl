@@ -7,10 +7,10 @@
 <p align="center" style="margin: 0; line-height: 1.2;">프로그래머스 백엔드 데브코스 진행중 (7/15~12/13)</p>
 
 <br>
-<div align= "center">
+<div align="center">
   <details>
     <summary>
-      <h3>Click to view Status<h3>
+      <p style="font-size: 20px; font-weight: bold;">Click to view Status</p>
     </summary>
     <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
