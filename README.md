@@ -8,7 +8,7 @@
 
 <br>
 <div align= "center">
-  <details style="display: inline-block; font-size: 30px;">
+  <details style="display: inline-block; font-size: 40px;">
     <summary style="cursor: pointer;">
       <strong>Click to view Status</strong>
     </summary>
