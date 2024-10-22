@@ -8,8 +8,8 @@
 
 <br>
 
-<details style="text-align: center; font-size: 24px;">
-  <summary>
+<details style="text-align: center; font-size: 24px; margin: auto;">
+  <summary style="cursor: pointer;">
     <strong>Click to view Status</strong>
   </summary>
   <p align="center">
