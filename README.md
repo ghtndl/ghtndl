@@ -8,9 +8,9 @@
 
 <br>
 <div align= "center">
-  <details style="display: inline-block; font-size: 40px;">
-    <summary style="cursor: pointer;">
-      <strong>Click to view Status</strong>
+  <details>
+    <summary>
+      <h3>Click to view Status<h3>
     </summary>
     <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
