@@ -1,17 +1,57 @@
-## Hi there 👋
+![capsule](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Hello%20I'm%20Suho👋&descAlign=50&reversal=false&fontSize=70&fontAlignY=50&fontAlign=50&descAlignY=60&section=header)
 
-<!--
-**ghtndl/ghtndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center" style="margin: 0; line-height: 1.2;">을지대학교 의료IT공학과 졸업(예정)</p>
+<p align="center" style="margin: 0; line-height: 1.2;">백엔드를 공부합니다</p>
+<p align="center" style="margin: 0; line-height: 1.2;">프로그래머스 백엔드 데브코스 진행중 (7/15~12/13)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![로고](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=이수호%20입니다&descAlign=50)
+<br>
+
+<details style="text-align: center; font-size: 24px;">
+  <summary>
+    <strong>Click to view Status</strong>
+  </summary>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=ghtndl&theme=dark&show_icons=true&icon_color=ffffff" alt="SUHO's GitHub stats" />
+    </a>
+    <a href="https://solved.ac/suho0406">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suho0406" alt="Solved.ac 프로필" />
+    </a>
+  </p>
+</details>
+
+<br>
+<br>
+
+<p align="center" style="font-size: 24px; font-weight: bold;">🦾 Skills</p>
+<p align="center" style="font-size: 20px; font-weight: bold;">🧑‍💻 Lang and Frameworks</p>
+<p align="center" style="line-height: 0;">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white" alt="Hibernate" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="margin: 0 2px;" />
+</p>
+
+<p align="center" style="font-size: 20px; font-weight: bold;">🛠️ Infra and Tools</p><p align="center" style="line-height: 0;">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white" alt="Swagger" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" alt="Gradle" style="margin: 0 2px;" />
+    <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" style="margin: 0 2px;" />
+</p>
+<br>
+
+<p align="center" style="font-size: 20px; font-weight: bold;">📩 Contact</p>
+<p align="center" style="line-height: 0;">
+    <a href="mailto:leesooho0406@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin: 0 2px;" />
+    </a>
+    <a href="https://www.instagram.com/ghtndl/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 0 2px;" />
+    </a>
+</p>
+
