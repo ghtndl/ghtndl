@@ -9,7 +9,7 @@
 <div align="center">
   <details>
     <summary>
-      <b style="font-size: 1.5em">Click to view Status</b>
+      <div style="font-size: 24px"><b>Click to view Status</b></div>
     </summary>
     <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
