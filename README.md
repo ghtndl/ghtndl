@@ -6,11 +6,10 @@
 <p align="center" style="margin: 0; line-height: 1.2;">백엔드를 공부합니다</p>
 <p align="center" style="margin: 0; line-height: 1.2;">프로그래머스 백엔드 데브코스 진행중 (7/15~12/13)</p>
 
-<br>
 <div align="center">
   <details>
     <summary>
-      <span style="font-size: 30px; font-weight: bold;">Click to view Status</span>
+      <b style="font-size: 1.5em">Click to view Status</b>
     </summary>
     <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
