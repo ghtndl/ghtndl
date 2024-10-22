@@ -9,7 +9,9 @@
 <br>
 <div align="center">
   <details>
-    <summary style="font-size: 30px; font-weight: bold;">Click to view Status</summary>
+    <summary>
+      <span style="font-size: 30px; font-weight: bold;">Click to view Status</span>
+    </summary>
     <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=ghtndl&theme=dark&show_icons=true&icon_color=ffffff" alt="SUHO's GitHub stats" />
@@ -20,7 +22,6 @@
     </p>
   </details>
 </div>
-
 <br>
 <br>
 
