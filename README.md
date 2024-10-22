@@ -1,10 +1,10 @@
-![capsule](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Hello%20I'm%20Suho👋&descAlign=50&reversal=false&fontSize=70&fontAlignY=50&fontAlign=50&descAlignY=60&section=header)
+![capsule](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Hello%20I'm%20SUHO👋&descAlign=50&reversal=false&fontSize=70&fontAlignY=50&fontAlign=50&descAlignY=60&section=header)
 
 <br>
 
-<p align="center" style="margin: 0; line-height: 1.2;">을지대학교 의료IT공학과 졸업(예정)</p>
-<p align="center" style="margin: 0; line-height: 1.2;">백엔드를 공부합니다</p>
-<p align="center" style="margin: 0; line-height: 1.2;">프로그래머스 백엔드 데브코스 진행중 (7/15~12/13)</p>
+<p align="center">💻 을지대학교 의료IT공학과 졸업(예정)</p>
+<p align="center">🧑‍💻 백엔드를 공부합니다</p>
+<p align="center">🚀 프로그래머스 백엔드 데브코스 진행중 (7/15~12/13)</p>
 
 <br>
 
