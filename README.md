@@ -8,7 +8,7 @@
 
 <br>
 <div align= "center">
-  <details style="display: inline-block; font-size: 24px;">
+  <details style="display: inline-block; font-size: 30px;">
     <summary style="cursor: pointer;">
       <strong>Click to view Status</strong>
     </summary>
@@ -26,33 +26,33 @@
 <br>
 <br>
 
-<h3 align="center" >🦾 Skills</h3>
-<h4 align="center" >🧑‍💻 Lang and Frameworks</h4>
-<p align="center" style="line-height: 0;">
+<h2 align="center" >🦾 Skills</h2>
+<h3 align="center" >🧑‍💻 Lang and Frameworks</h3>
+<div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white" alt="Hibernate" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="margin: 0 2px;" />
-</p>
+</div>
 
-<h4 align="center"> 🛠️ Infra and Tools</h4>
-<p align="center">
+<h3 align="center"> 🛠️ Infra and Tools</h3>
+<div align="center">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white" alt="Swagger" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" alt="Gradle" style="margin: 0 2px;" />
     <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" style="margin: 0 2px;" />
-</p>
+</div>
 
-<h4 align="center">📩 Contact</h4>
-<p align="center">
+<h3 align="center">📩 Contact</h3>
+<div align="center">
     <a href="mailto:leesooho0406@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin: 0 2px;" />
     </a>
     <a href="https://www.instagram.com/ghtndl/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" style="margin: 0 2px;" />
     </a>
-</p>
+</div>
 
