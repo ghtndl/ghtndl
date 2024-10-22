@@ -7,20 +7,21 @@
 <p align="center" style="margin: 0; line-height: 1.2;">프로그래머스 백엔드 데브코스 진행중 (7/15~12/13)</p>
 
 <br>
-
-<details style="text-align: center; font-size: 24px; margin: auto;">
-  <summary style="cursor: pointer;">
-    <strong>Click to view Status</strong>
-  </summary>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=ghtndl&theme=dark&show_icons=true&icon_color=ffffff" alt="SUHO's GitHub stats" />
-    </a>
-    <a href="https://solved.ac/suho0406">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suho0406" alt="Solved.ac 프로필" />
-    </a>
-  </p>
-</details>
+<div style="text-align: center;">
+  <details style="display: inline-block; font-size: 24px;">
+    <summary style="cursor: pointer;">
+      <strong>Click to view Status</strong>
+    </summary>
+    <p align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ghtndl&theme=dark&show_icons=true&icon_color=ffffff" alt="SUHO's GitHub stats" />
+      </a>
+      <a href="https://solved.ac/suho0406">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suho0406" alt="Solved.ac profile" />
+      </a>
+    </p>
+  </details>
+</div>
 
 <br>
 <br>
